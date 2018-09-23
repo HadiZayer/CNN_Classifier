@@ -1,6 +1,3 @@
-Hadi Alzayer
-ha366@cornell.edu
-
 Dependencies:
 The code requires PyTorch and numpy
 
